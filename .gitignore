@@ -1,0 +1,12 @@
+# Ignore everything
+**
+
+# But not these
+!.gitignore
+!src/
+!src/**
+
+# Still ignore these inside src/
+src/**/__pycache__/
+src/**/*.pyc
+*.log

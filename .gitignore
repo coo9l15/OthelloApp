@@ -5,6 +5,7 @@
 !.gitignore
 !src/
 !src/**
+!README.md
 
 # Still ignore these inside src/
 src/**/__pycache__/
